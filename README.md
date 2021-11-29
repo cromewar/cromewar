@@ -1,9 +1,4 @@
-### 👋 Hi, I’m @cromewar my friends call me Crome.
-
-- I’m interested on blockchain Technologies, Smart contracts, NFTS and Crypto in general.
-- I’m currently studying to became a Smart Contract Developer
-- I’m looking to collaborate on any project related to DeFi, DApps, NFTS, python, optimization.
-- You can reach me by email vasiliy@cromewar.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cromewar)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 cromewar/cromewar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
