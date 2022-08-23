@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cromewar/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cromewar)
 
-I'm a blockchain developer, I work with:
+I'm a blockchain developer and Content Creator, I work with:
 
 - Solidity
 - Brownie (python)
@@ -14,7 +14,7 @@ I'm a blockchain developer, I work with:
 - JavaScript
 
 
-I'm also a python enthusiast, a cat lover and a Java Hater.
+I'm also a python enthusiast, a cat lover and Sci-Fo snob
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cromewar)](https://github.com/anuraghazra/github-readme-stats)
 
